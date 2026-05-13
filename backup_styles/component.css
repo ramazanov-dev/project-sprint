@@ -1,0 +1,43 @@
+.g-md-command-menu__list.g-list {
+  width: 312px;
+}
+.g-md-command-menu__list.g-list .g-list__empty-placeholder {
+  height: 28px;
+  padding-right: 12px;
+  padding-left: 12px;
+}
+.g-md-command-menu__list-item {
+  cursor: pointer;
+}
+.g-md-command-menu__item {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 0 16px;
+}
+.g-md-command-menu__item-icon {
+  display: flex;
+  flex: 0 0 auto;
+  margin-right: 8px;
+}
+.g-md-command-menu__item-body {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 12px;
+  width: 100%;
+}
+.g-md-command-menu__item-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.g-md-command-menu__item-extra {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  column-gap: 8px;
+}
+.g-md-command-menu__item-hotkey {
+  align-self: center;
+}

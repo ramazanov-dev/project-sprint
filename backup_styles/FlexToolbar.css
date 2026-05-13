@@ -1,0 +1,10 @@
+.g-md-flex-toolbar {
+  position: relative;
+  height: 28px;
+}
+.g-md-flex-toolbar__container {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  gap: 0 8px;
+}

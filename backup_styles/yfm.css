@@ -1,0 +1,21 @@
+.yfm.yfm-editor,
+.yfm.yfm-editor code,
+.yfm.yfm-editor pre > code,
+.yfm.yfm-editor table code,
+.yfm.yfm-editor table th,
+.yfm.yfm-editor table td {
+  /* stylelint-disable */
+  white-space: pre-wrap;
+  white-space: break-spaces;
+  /* stylelint-enable */
+}
+.yfm.yfm-editor .yfm-cut-title {
+  /* stylelint-disable-next-line property-no-vendor-prefix */
+  -webkit-user-select: text;
+  user-select: text;
+}
+.yfm.yfm-editor .yfm-tab {
+  /* stylelint-disable-next-line property-no-vendor-prefix */
+  -webkit-user-select: text;
+  user-select: text;
+}

@@ -1,0 +1,33 @@
+.g-md-editor-sticky {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-rows: 1fr;
+}
+.g-md-editor-sticky_sticky {
+  position: sticky;
+  top: calc(var(--g-md-toolbar-sticky-offset, 0px) + 8px);
+}
+.g-md-editor-sticky_sticky-active:not(.g-md-editor-sticky_clear) {
+  z-index: 2000;
+  padding: var(--g-md-toolbar-sticky-padding);
+}
+.g-md-editor-sticky_sticky-active:not(.g-md-editor-sticky_clear)::before {
+  position: absolute;
+  inset: var(--g-md-toolbar-sticky-inset, -4px);
+  content: "";
+  border: var(--g-md-toolbar-sticky-border, 1px solid var(--g-color-line-generic-solid));
+  border-radius: 4px;
+  background-color: var(--g-color-base-background);
+}
+.g-md-editor-sticky_part_left:not(.g-md-editor-sticky_clear).g-md-editor-sticky_sticky::before {
+  right: 0;
+  border-right: none;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.g-md-editor-sticky_part_right:not(.g-md-editor-sticky_clear).g-md-editor-sticky_sticky::before {
+  left: 0;
+  border-left: none;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}

@@ -1,0 +1,73 @@
+.math-block {
+  font-family: var(--g-font-family-monospace);
+  color: var(--g-color-text-complementary);
+}
+
+.math-block-container {
+  margin-bottom: 15px;
+}
+
+.math-error {
+  color: var(--g-color-text-danger);
+}
+
+.math-block-view.math-view-error {
+  display: flex;
+  justify-content: center;
+}
+
+.math-container.math-active .math-view {
+  display: none;
+}
+
+.math-block-container.math-active .math-block {
+  background-color: var(--g-color-base-misc-light);
+}
+.math-block-container.math-active .math-block::before, .math-block-container.math-active .math-block::after {
+  display: block;
+  content: "$$";
+  color: var(--g-color-text-hint);
+}
+
+.math-container:not(.math-active) {
+  --g-md-math-back-color: transparent;
+  --g-md-math-hover-color: var(--g-color-base-simple-hover);
+  position: relative;
+}
+.math-container:not(.math-active).math-container-error {
+  --g-md-math-back-color: var(--g-color-base-danger-light);
+  --g-md-math-hover-color: var(--g-color-base-danger-light-hover);
+}
+.math-container:not(.math-active)::before {
+  position: absolute;
+  z-index: -1;
+  inset: -2px;
+  content: "";
+  border-radius: var(--g-border-radius-s);
+  background-color: var(--g-md-math-back-color);
+  transition: background-color 0.15s linear;
+}
+.math-container:not(.math-active):hover {
+  cursor: pointer;
+}
+.math-container:not(.math-active):hover::before {
+  background-color: var(--g-md-math-hover-color);
+}
+.math-container:not(.math-active) .math-inline,
+.math-container:not(.math-active) .math-block {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  opacity: 0;
+}
+.math-container:not(.math-active) .g-md-MathHint {
+  display: none;
+}
+
+.g-md-MathHint_view_block {
+  float: right;
+}
+.g-md-MathHint_view_inline {
+  display: inline-block;
+  margin-right: 6px;
+}

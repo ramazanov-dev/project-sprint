@@ -1,0 +1,33 @@
+.g-md-Mermaid {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  padding: 2px;
+  border: 1px solid var(--g-color-line-generic);
+  border-radius: var(--g-border-radius-m);
+}
+.g-md-Mermaid_edit {
+  display: flex;
+}
+.g-md-Mermaid__Preview {
+  flex: 1;
+}
+.g-md-Mermaid__Error {
+  flex: 1;
+  font-family: var(--g-font-family-monospace);
+  color: var(--g-color-text-danger);
+}
+.g-md-Mermaid__Editor {
+  flex: 1;
+  white-space: nowrap;
+  caret-color: auto;
+}
+.g-md-Mermaid__EditorPopover {
+  z-index: 1;
+  float: right;
+}
+.g-md-Mermaid__Controls {
+  display: flex;
+  justify-content: end;
+  margin-top: 5px;
+}

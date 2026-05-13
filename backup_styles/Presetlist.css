@@ -1,0 +1,6 @@
+.g-md-gpt-dialog-preset-list__preset + .g-md-gpt-dialog-preset-list__preset {
+  margin-left: var(--g-spacing-2);
+}
+.g-md-gpt-dialog-preset-list__more-button-wrapper {
+  margin-left: var(--g-spacing-2);
+}

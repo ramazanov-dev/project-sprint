@@ -1,0 +1,24 @@
+.g-md-markdown-hints {
+  min-width: 210px;
+  line-height: var(--g-text-code-1-line-height);
+}
+.g-md-markdown-hints__grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4px;
+}
+.g-md-markdown-hints__title {
+  font-weight: 500;
+}
+.g-md-markdown-hints__hint {
+  white-space: nowrap;
+  color: var(--g-color-text-complementary);
+}
+.g-md-markdown-hints__title, .g-md-markdown-hints__hint {
+  flex: 1;
+  text-align: left;
+}
+.g-md-markdown-hints__docs-link {
+  display: inline-block;
+  margin-top: 8px;
+}

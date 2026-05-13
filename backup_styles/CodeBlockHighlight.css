@@ -1,0 +1,21 @@
+.g-md-editor.ProseMirror.yfm pre > code {
+  white-space: pre;
+}
+.g-md-editor.ProseMirror pre > code.wrap {
+  /* stylelint-disable */
+  white-space: pre-wrap;
+  white-space: break-spaces;
+  /* stylelint-enable */
+}
+.g-md-editor.ProseMirror pre > code.wrap .yfm-line-number.ProseMirror-widget {
+  position: absolute;
+  left: 16px;
+  padding: 0;
+}
+.g-md-editor.ProseMirror pre > code.show-line-numbers {
+  position: relative;
+  display: flex;
+}
+.g-md-editor.ProseMirror pre > code .fake-line-number {
+  opacity: 0;
+}

@@ -1,0 +1,38 @@
+body :has(.g-md-resizable_resizing) {
+  cursor: col-resize;
+}
+
+.g-md-resizable {
+  position: relative;
+}
+.g-md-resizable_resizing .g-md-resizable__resizer-wrapper, .g-md-resizable_hover .g-md-resizable__resizer-wrapper {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 100%;
+  cursor: col-resize;
+  pointer-events: auto;
+}
+.g-md-resizable_resizing .g-md-resizable__resizer-wrapper_left, .g-md-resizable_hover .g-md-resizable__resizer-wrapper_left {
+  left: 0;
+}
+.g-md-resizable_resizing .g-md-resizable__resizer-wrapper_right, .g-md-resizable_hover .g-md-resizable__resizer-wrapper_right {
+  right: 0;
+}
+.g-md-resizable__resizer {
+  opacity: 0;
+}
+.g-md-resizable_resizing .g-md-resizable__resizer, .g-md-resizable_hover .g-md-resizable__resizer {
+  box-sizing: content-box;
+  width: 4px;
+  height: 50px;
+  max-height: 50%;
+  opacity: 1;
+  border-radius: 6px;
+  background: rgba(127, 127, 127, 0.8);
+  transition: opacity 300ms ease-in 0s;
+}

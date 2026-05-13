@@ -1,0 +1,52 @@
+.g-md-emoji-suggest__list.g-list {
+  width: 256px;
+}
+.g-md-emoji-suggest__list.g-list .g-list__empty-placeholder {
+  height: 28px;
+  padding-right: 12px;
+  padding-left: 12px;
+}
+.g-md-emoji-suggest__list-item {
+  cursor: pointer;
+}
+.g-md-emoji-suggest__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 0 16px;
+}
+.g-md-emoji-suggest__item-info {
+  display: flex;
+  align-items: center;
+}
+.g-md-emoji-suggest__item-icon {
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  width: 20px;
+  margin-right: 8px;
+  font-family: var(--g-text-body-font-family);
+  font-weight: var(--g-text-body-font-weight);
+  font-size: var(--g-text-body-3-font-size);
+  line-height: var(--g-text-body-3-line-height);
+}
+.g-md-emoji-suggest__item-name {
+  margin-right: 12px;
+  white-space: nowrap;
+}
+.g-md-emoji-suggest__item-shortcuts {
+  display: inline-flex;
+  align-items: center;
+  column-gap: 4px;
+}
+.g-md-emoji-suggest__item-shortcut {
+  padding: 1px 2px;
+  white-space: nowrap;
+  border-radius: var(--g-border-radius-xs);
+  background-color: var(--g-color-base-generic);
+  font-family: var(--g-text-code-font-family);
+  font-weight: var(--g-text-code-font-weight);
+  font-size: var(--g-text-code-inline-1-font-size);
+  line-height: var(--g-text-code-inline-1-line-height);
+}

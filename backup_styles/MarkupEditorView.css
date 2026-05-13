@@ -1,0 +1,108 @@
+.g-md-markup-editor,
+.g-md-markup-preview {
+  display: flex;
+  flex: 1 0 0;
+  flex-direction: column;
+}
+.g-md-markup-editor__toolbar,
+.g-md-markup-preview__toolbar {
+  flex-shrink: 0;
+  padding: var(--g-md-toolbar-padding);
+}
+.g-md-markup-editor__editor,
+.g-md-markup-preview__editor {
+  flex-basis: 100%;
+  min-height: 36px;
+  max-height: 100%;
+  padding: var(--g-md-editor-padding);
+  cursor: text;
+}
+.g-md-markup-editor__editor_toolbar-visible,
+.g-md-markup-preview__editor_toolbar-visible {
+  max-height: calc(100% - 28px);
+}
+.g-md-markup-editor .CodeMirror-lines,
+.g-md-markup-preview .CodeMirror-lines {
+  padding: 4px 0 0;
+}
+.g-md-markup-editor_toolbar .CodeMirror-lines,
+.g-md-markup-preview_toolbar .CodeMirror-lines {
+  padding-top: 16px;
+}
+.g-md-markup-editor .CodeMirror-focused .CodeMirror-selected,
+.g-md-markup-editor .focus::selection,
+.g-md-markup-preview .CodeMirror-focused .CodeMirror-selected,
+.g-md-markup-preview .focus::selection {
+  background: rgba(98, 146, 255, 0.2);
+}
+.g-md-markup-editor .CodeMirror-selected,
+.g-md-markup-editor ::selection,
+.g-md-markup-preview .CodeMirror-selected,
+.g-md-markup-preview ::selection {
+  background: rgba(0, 29.9617834395, 98, 0.2);
+}
+.g-md-markup-editor .CodeMirror,
+.g-md-markup-preview .CodeMirror {
+  height: 100%;
+  min-height: 100%;
+  color: var(--g-color-text-primary);
+  font-family: var(--g-text-code-font-family);
+  font-weight: var(--g-text-code-font-weight);
+  font-size: var(--g-text-code-2-font-size);
+  line-height: var(--g-text-code-2-line-height);
+}
+.g-md-markup-editor .CodeMirror .CodeMirror-cursor,
+.g-md-markup-preview .CodeMirror .CodeMirror-cursor {
+  border-color: var(--g-color-text-primary);
+}
+.g-md-markup-editor .CodeMirror .cm-m-markdown.cm-header,
+.g-md-markup-preview .CodeMirror .cm-m-markdown.cm-header {
+  color: inherit;
+}
+.g-md-markup-editor .CodeMirror .cm-m-markdown.cm-quote,
+.g-md-markup-preview .CodeMirror .cm-m-markdown.cm-quote {
+  color: var(--g-color-text-positive);
+}
+.g-md-markup-editor .CodeMirror .cm-m-markdown.cm-link,
+.g-md-markup-preview .CodeMirror .cm-m-markdown.cm-link {
+  color: var(--g-color-text-link);
+}
+.g-md-markup-editor .CodeMirror .cm-m-markdown.cm-string,
+.g-md-markup-preview .CodeMirror .cm-m-markdown.cm-string {
+  color: var(--g-color-text-warning-heavy);
+}
+.g-md-markup-editor .CodeMirror .cm-m-markdown.cm-comment,
+.g-md-markup-preview .CodeMirror .cm-m-markdown.cm-comment {
+  color: var(--g-color-text-misc);
+}
+.g-md-markup-editor .CodeMirror .cm-m-markdown.cm-variable-2, .g-md-markup-editor .CodeMirror .cm-m-markdown.cm-variable-3, .g-md-markup-editor .CodeMirror .cm-m-markdown.cm-keyword,
+.g-md-markup-preview .CodeMirror .cm-m-markdown.cm-variable-2,
+.g-md-markup-preview .CodeMirror .cm-m-markdown.cm-variable-3,
+.g-md-markup-preview .CodeMirror .cm-m-markdown.cm-keyword {
+  color: unset;
+}
+.g-md-markup-editor .CodeMirror.cm-s-default,
+.g-md-markup-preview .CodeMirror.cm-s-default {
+  background-color: transparent;
+}
+.g-md-markup-editor .CodeMirror.cm-s-default .CodeMirror-placeholder,
+.g-md-markup-preview .CodeMirror.cm-s-default .CodeMirror-placeholder {
+  color: var(--g-color-text-secondary);
+}
+
+.g-md-markup-preview__outer {
+  overflow-y: auto;
+  flex: 1 0 0;
+}
+.g-md-markup-preview__outer_vertical {
+  box-sizing: border-box;
+  margin-top: 6px;
+  padding-top: 12px;
+  border-top: 8px solid var(--g-color-base-generic-ultralight);
+}
+.g-md-markup-preview__html {
+  position: relative;
+}
+.g-md-markup-preview__preview-sign {
+  margin-bottom: 8px;
+}

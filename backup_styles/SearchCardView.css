@@ -1,0 +1,7 @@
+.g-md-search-card {
+  width: 428px;
+}
+.g-md-search-card__row.g-md-search-card__row {
+  --gc-form-row-label-width: 86px;
+  --gc-form-row-field-height: 36px;
+}

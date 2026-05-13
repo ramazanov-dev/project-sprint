@@ -1,0 +1,22 @@
+.g-md-form-row {
+  display: flex;
+  gap: 0 12px;
+}
+.g-md-form-row__label {
+  display: flex;
+  flex-shrink: 0;
+  align-items: center;
+  min-width: 128px;
+}
+.g-md-form-row__label-text {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.g-md-form-row__label-help {
+  margin-left: 6px;
+}
+.g-md-form-row__control {
+  flex-grow: 1;
+  min-width: 200px;
+}

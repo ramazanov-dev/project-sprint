@@ -1,0 +1,66 @@
+.g-md-toolbar-colors__menu-icon_color_gray {
+  color: var(--yfm-colorify-gray);
+}
+.g-md-toolbar-colors__chevron-icon_color_gray {
+  color: var(--yfm-colorify-gray);
+}
+.g-md-toolbar-colors__item-icon_color_gray {
+  color: var(--yfm-colorify-gray);
+}
+.g-md-toolbar-colors__menu-icon_color_yellow {
+  color: var(--yfm-colorify-yellow);
+}
+.g-md-toolbar-colors__chevron-icon_color_yellow {
+  color: var(--yfm-colorify-yellow);
+}
+.g-md-toolbar-colors__item-icon_color_yellow {
+  color: var(--yfm-colorify-yellow);
+}
+.g-md-toolbar-colors__menu-icon_color_orange {
+  color: var(--yfm-colorify-orange);
+}
+.g-md-toolbar-colors__chevron-icon_color_orange {
+  color: var(--yfm-colorify-orange);
+}
+.g-md-toolbar-colors__item-icon_color_orange {
+  color: var(--yfm-colorify-orange);
+}
+.g-md-toolbar-colors__menu-icon_color_red {
+  color: var(--yfm-colorify-red);
+}
+.g-md-toolbar-colors__chevron-icon_color_red {
+  color: var(--yfm-colorify-red);
+}
+.g-md-toolbar-colors__item-icon_color_red {
+  color: var(--yfm-colorify-red);
+}
+.g-md-toolbar-colors__menu-icon_color_green {
+  color: var(--yfm-colorify-green);
+}
+.g-md-toolbar-colors__chevron-icon_color_green {
+  color: var(--yfm-colorify-green);
+}
+.g-md-toolbar-colors__item-icon_color_green {
+  color: var(--yfm-colorify-green);
+}
+.g-md-toolbar-colors__menu-icon_color_blue {
+  color: var(--yfm-colorify-blue);
+}
+.g-md-toolbar-colors__chevron-icon_color_blue {
+  color: var(--yfm-colorify-blue);
+}
+.g-md-toolbar-colors__item-icon_color_blue {
+  color: var(--yfm-colorify-blue);
+}
+.g-md-toolbar-colors__menu-icon_color_violet {
+  color: var(--yfm-colorify-violet);
+}
+.g-md-toolbar-colors__chevron-icon_color_violet {
+  color: var(--yfm-colorify-violet);
+}
+.g-md-toolbar-colors__item-icon_color_violet {
+  color: var(--yfm-colorify-violet);
+}
+.g-md-toolbar-colors__item-icon_color_default {
+  color: var(--g-color-text-primary);
+}

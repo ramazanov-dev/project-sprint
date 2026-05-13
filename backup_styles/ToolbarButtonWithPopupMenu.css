@@ -1,0 +1,12 @@
+.g-md-toolbar-button-with-popup-menu {
+  --g-button-icon-offset: 0px;
+  --g-button-padding: 2px;
+  width: 42px;
+}
+.g-md-toolbar-button-with-popup-menu__menu-group .g-menu__group-label {
+  color: var(--g-color-text-hint);
+  font-family: var(--g-text-body-font-family);
+  font-weight: var(--g-text-body-font-weight);
+  font-size: var(--g-text-body-1-font-size);
+  line-height: var(--g-text-body-1-line-height);
+}

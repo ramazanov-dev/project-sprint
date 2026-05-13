@@ -1,0 +1,14 @@
+.ProseMirror.yfm .yfm-cut-title > .g-md-yfm-cut-title-inner {
+  cursor: text;
+}
+.ProseMirror.yfm .yfm-cut-content {
+  display: none;
+  overflow: hidden;
+  transition: height 0.3s ease-in-out;
+}
+.ProseMirror.yfm .yfm-cut.yfm-cut-open > .yfm-cut-title:before {
+  transform: translateY(-50%);
+}
+.ProseMirror.yfm .yfm-cut.yfm-cut-open > .yfm-cut-content {
+  display: revert;
+}

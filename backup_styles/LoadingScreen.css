@@ -1,0 +1,22 @@
+.g-md-gpt-dialog-loading-screen__header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+.g-md-gpt-dialog-loading-screen__icon {
+  margin-right: 4px;
+}
+.g-md-gpt-dialog-loading-screen__text {
+  margin-right: 8px;
+  font-size: var(--g-text-body-2-font-size);
+  font-weight: 500;
+}
+.g-md-gpt-dialog-loading-screen__skeleton-small-button {
+  width: 90px;
+  height: 28px;
+  margin-right: 8px;
+}
+.g-md-gpt-dialog-loading-screen__skeleton-medium-button {
+  width: 120px;
+  height: 28px;
+}

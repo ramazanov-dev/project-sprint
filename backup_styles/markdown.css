@@ -1,0 +1,72 @@
+:root {
+  --yfm-colorify-black: #000;
+  --yfm-colorify-gray: #808080;
+  --yfm-colorify-yellow: #ffd700;
+  --yfm-colorify-orange: #f80;
+  --yfm-colorify-red: #c00;
+  --yfm-colorify-green: #080;
+  --yfm-colorify-blue: #04b;
+  --yfm-colorify-violet: #f0f;
+}
+
+.yfm-colorify--black {
+  color: var(--yfm-colorify-black);
+}
+
+.yfm-colorify--gray {
+  color: var(--yfm-colorify-gray);
+}
+
+.yfm-colorify--yellow {
+  color: var(--yfm-colorify-yellow);
+}
+
+.yfm-colorify--orange {
+  color: var(--yfm-colorify-orange);
+}
+
+.yfm-colorify--red {
+  color: var(--yfm-colorify-red);
+}
+
+.yfm-colorify--green {
+  color: var(--yfm-colorify-green);
+}
+
+.yfm-colorify--blue {
+  color: var(--yfm-colorify-blue);
+}
+
+.yfm-colorify--violet {
+  color: var(--yfm-colorify-violet);
+}
+
+.g-root .yfm:not(.yfm_only-light) {
+  --yfm-file-icon-color: var(--g-color-text-primary);
+}
+
+.g-root {
+  --yfm-color-text-gray: var(--g-color-text-secondary);
+  --yfm-color-text-yellow: var(--g-color-private-yellow-600-solid);
+  --yfm-color-text-orange: var(--g-color-private-orange-500-solid);
+  --yfm-color-text-red: var(--g-color-text-danger);
+  --yfm-color-text-green: var(--g-color-text-positive);
+  --yfm-color-text-blue: var(--g-color-text-info);
+  --yfm-color-text-violet: var(--g-color-text-utility);
+}
+
+.g-root {
+  --yfm-colorify-black: var(--g-color-text-primary);
+  --yfm-colorify-gray: var(--yfm-color-text-gray);
+  --yfm-colorify-yellow: var(--yfm-color-text-yellow);
+  --yfm-colorify-orange: var(--yfm-color-text-orange);
+  --yfm-colorify-red: var(--yfm-color-text-red);
+  --yfm-colorify-green: var(--yfm-color-text-green);
+  --yfm-colorify-blue: var(--yfm-color-text-blue);
+  --yfm-colorify-violet: var(--yfm-color-text-violet);
+}
+
+.yfm {
+  --yfm-hr-height: 4px;
+  --yfm-hr-margin: 24px 0;
+}

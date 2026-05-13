@@ -1,0 +1,75 @@
+.g-md-gpt-dialog__header-top {
+  display: flex;
+  align-items: center;
+}
+.g-md-gpt-dialog__custom-prompt-input {
+  margin-right: var(--g-spacing-2);
+}
+.g-md-gpt-dialog__custom-prompt-input .g-text-input__control {
+  font-size: var(--g-text-body-2-font-size);
+}
+.g-md-gpt-dialog__header-bottom {
+  margin-top: var(--g-spacing-2);
+}
+.g-md-gpt-dialog__custom-prompt {
+  display: flex;
+  flex: auto;
+  align-items: center;
+}
+.g-md-gpt-dialog__alone-presets-text {
+  margin-right: var(--g-spacing-8);
+}
+.g-md-gpt-dialog__alone-presets {
+  display: flex;
+  flex: auto;
+  align-items: center;
+  width: 100%;
+  font-size: var(--g-text-body-2-font-size);
+  font-weight: 500;
+}
+.g-md-gpt-dialog__alone-presets .g-md-gpt-dialog-preset-list {
+  flex: auto;
+}
+.g-md-gpt-dialog__answer-title {
+  font-size: var(--g-text-body-2-font-size);
+  font-weight: 500;
+}
+.g-md-gpt-dialog__gpt-icon {
+  margin-right: var(--g-spacing-1);
+}
+.g-md-gpt-dialog__try-again-button {
+  margin-right: var(--g-spacing-2);
+}
+.g-md-gpt-dialog__body {
+  margin: var(--g-spacing-2) calc(-1 * var(--g-spacing-3));
+  padding: var(--g-spacing-4) var(--g-spacing-3);
+  border-top: 1px solid var(--g-color-line-generic);
+}
+.g-md-gpt-dialog__answer {
+  overflow: auto;
+  max-height: 300px;
+}
+.g-md-gpt-dialog__answer-actions {
+  display: flex;
+  align-items: center;
+}
+.g-md-gpt-dialog__feedback-message {
+  margin-left: var(--g-spacing-2);
+}
+.g-md-gpt-dialog__like-button {
+  margin-right: var(--g-spacing-2);
+}
+.g-md-gpt-dialog__close-button {
+  margin-right: var(--g-spacing-2);
+  margin-left: auto;
+}
+.g-md-gpt-dialog__footer {
+  display: flex;
+  align-items: center;
+  margin-top: var(--g-spacing-2);
+}
+.g-md-gpt-dialog__description-alert {
+  min-height: 34px;
+  margin-top: var(--g-spacing-3);
+  padding: var(--g-spacing-1) var(--g-spacing-2);
+}

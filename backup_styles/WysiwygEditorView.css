@@ -1,0 +1,25 @@
+.g-md-wysiwyg-editor {
+  display: flex;
+  flex-direction: column;
+}
+.g-md-wysiwyg-editor__toolbar {
+  flex-shrink: 0;
+  padding: var(--g-md-toolbar-padding);
+}
+.g-md-wysiwyg-editor__editor {
+  overflow-y: auto;
+  flex-grow: 1;
+  padding: var(--g-md-editor-padding);
+}
+.g-root_theme_dark .g-md-wysiwyg-editor__editor .pm-iframe-container {
+  background-color: var(--g-color-base-light);
+}
+.g-md-wysiwyg-editor .yfm-editor {
+  height: calc(100% - 4px - 4px);
+  padding: 4px 4px 4px;
+}
+.g-md-wysiwyg-editor_toolbar .yfm-editor {
+  height: calc(100% - 16px - 16px);
+  padding-top: 16px;
+  padding-bottom: 16px;
+}

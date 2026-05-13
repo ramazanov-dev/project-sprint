@@ -1,0 +1,7 @@
+.g-md-file-placeholder {
+  margin: 0 4px;
+  pointer-events: none;
+}
+.g-md-file-placeholder .yfm-file__icon {
+  margin-right: 8px;
+}

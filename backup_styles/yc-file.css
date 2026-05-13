@@ -1,0 +1,3 @@
+.g-root .yfm:not(.yfm_only-light) {
+  --yfm-file-icon-color: var(--g-color-text-primary);
+}

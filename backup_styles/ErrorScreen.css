@@ -1,0 +1,18 @@
+.g-md-gpt-dialog-error-screen__content {
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--g-spacing-2);
+}
+.g-md-gpt-dialog-error-screen__icon {
+  color: var(--g-color-base-danger-heavy);
+}
+.g-md-gpt-dialog-error-screen__text {
+  flex: auto;
+  font-size: var(--g-text-body-2-font-size);
+  font-weight: 500;
+}
+.g-md-gpt-dialog-error-screen__buttons {
+  display: flex;
+  align-items: center;
+  gap: var(--g-spacing-2);
+}
