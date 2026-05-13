@@ -5,7 +5,7 @@ set -e
 
 # Configure those to match your Docker container names
 DOCKER_CONTAINER_POSTGRES="planka-postgres-1"
-DOCKER_CONTAINER_PLANKA="planka-planka-1"
+DOCKER_CONTAINER_PROJECT_SPRINT="planka-planka-1"
 
 # Use provided directory or default to current directory
 BACKUP_DIR="${1:-$(pwd)}"
@@ -36,7 +36,7 @@ echo "Success!"
 echo
 
 echo -n "Exporting data volume ... "
-docker run --rm --volumes-from "$DOCKER_CONTAINER_PLANKA" -v "$BACKUP_TEMP:/backup" node:22-alpine cp -r /app/data /backup/data
+docker run --rm --volumes-from "$DOCKER_CONTAINER_PROJECT_SPRINT" -v "$BACKUP_TEMP:/backup" node:22-alpine cp -r /app/data /backup/data
 echo "Success!"
 echo
 

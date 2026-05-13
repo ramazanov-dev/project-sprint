@@ -1,28 +1,28 @@
-**PLANKA Community License**
+**PROJECT_SPRINT Community License**
 
 Version 1.1 - Last updated: May 20, 2025
 
 Related files in English:
 
-- PLANKA Community License EN.md (this file)
-- [PLANKA Commercial License EN.md](https://github.com/plankanban/planka/blob/master/LICENSES/PLANKA%20Commercial%20License%20EN.md)
-- [PLANKA License Guide EN.md](https://github.com/plankanban/planka/blob/master/LICENSES/PLANKA%20License%20Guide%20EN.md)
+- PROJECT_SPRINT Community License EN.md (this file)
+- [PROJECT_SPRINT Commercial License EN.md](https://github.com/plankanban/planka/blob/master/LICENSES/PROJECT_SPRINT%20Commercial%20License%20EN.md)
+- [PROJECT_SPRINT License Guide EN.md](https://github.com/plankanban/planka/blob/master/LICENSES/PROJECT_SPRINT%20License%20Guide%20EN.md)
 
 Related files in German:
 
-- [PLANKA Community License DE.md](https://github.com/plankanban/planka/blob/master/LICENSES/PLANKA%20Community%20License%20DE.md)
-- [PLANKA Commercial License DE.md](https://github.com/plankanban/planka/blob/master/LICENSES/PLANKA%20Commercial%20License%20DE.md)
-- [PLANKA License Guide DE.md](https://github.com/plankanban/planka/blob/master/LICENSES/PLANKA%20License%20Guide%20DE.md)
+- [PROJECT_SPRINT Community License DE.md](https://github.com/plankanban/planka/blob/master/LICENSES/PROJECT_SPRINT%20Community%20License%20DE.md)
+- [PROJECT_SPRINT Commercial License DE.md](https://github.com/plankanban/planka/blob/master/LICENSES/PROJECT_SPRINT%20Commercial%20License%20DE.md)
+- [PROJECT_SPRINT License Guide DE.md](https://github.com/plankanban/planka/blob/master/LICENSES/PROJECT_SPRINT%20License%20Guide%20DE.md)
 
 ---
 
-# PLANKA Community License
+# PROJECT_SPRINT Community License
 
 Files accessible to and marked for community use are licensed as follows:
 
 - Content of branches other than the main branch (usually "master" or "main") is not licensed.
-- Source code files or other files that contain ".pe." (for "PLANKA Pro/Enterprise") in their file names or folder names or are otherwise marked as "PLANKA Pro/Enterprise" in their file headers or folders are NOT licensed under the "Fair Use License". These files are "PLANKA Pro/Enterprise" files and are licensed under the "PLANKA Pro/Enterprise License".
-- To use any "PLANKA Pro/Enterprise" files or sources, you must own a valid "PLANKA Pro/Enterprise License". You can read more about our commercial license in the [PLANKA Commercial License EN.md](https://github.com/plankanban/planka/blob/master/LICENSES/PLANKA%20Commercial%20License%20EN.md).
+- Source code files or other files that contain ".pe." (for "PROJECT_SPRINT Pro/Enterprise") in their file names or folder names or are otherwise marked as "PROJECT_SPRINT Pro/Enterprise" in their file headers or folders are NOT licensed under the "Fair Use License". These files are "PROJECT_SPRINT Pro/Enterprise" files and are licensed under the "PROJECT_SPRINT Pro/Enterprise License".
+- To use any "PROJECT_SPRINT Pro/Enterprise" files or sources, you must own a valid "PROJECT_SPRINT Pro/Enterprise License". You can read more about our commercial license in the [PROJECT_SPRINT Commercial License EN.md](https://github.com/plankanban/planka/blob/master/LICENSES/PROJECT_SPRINT%20Commercial%20License%20EN.md).
 - All third-party components incorporated into our software are licensed under the original license provided by the owner of the applicable component.
 - Content outside of the above-mentioned files or restrictions is available under the "Fair Use License" as defined below.
 
@@ -40,17 +40,17 @@ The licensor grants you a non-exclusive, royalty-free, worldwide, non-sublicensa
 
 ### Trademark
 
-"You may use the PLANKA name or logo only to describe that your service incorporates the software. Any other trademark use (e.g., in product names, domains, or marketing material) requires our prior written consent."
+"You may use the PROJECT_SPRINT name or logo only to describe that your service incorporates the software. Any other trademark use (e.g., in product names, domains, or marketing material) requires our prior written consent."
 
 ### Permitted Use
 
-You may use or modify PLANKA (a) for personal, hobby, or educational purposes, (b) internally within your own organization, (c) for private hosting for a typical number of friends, family, or personal projects, (d) to provide free access to non-profit organizations (as recognized by applicable tax authorities), or if you are a recognized non-profit organization yourself involving external users into your mission, and (e) public educational institutions for academic/research purposes only.
+You may use or modify PROJECT_SPRINT (a) for personal, hobby, or educational purposes, (b) internally within your own organization, (c) for private hosting for a typical number of friends, family, or personal projects, (d) to provide free access to non-profit organizations (as recognized by applicable tax authorities), or if you are a recognized non-profit organization yourself involving external users into your mission, and (e) public educational institutions for academic/research purposes only.
 
 ### Restricted Use
 
-Sharing accounts/credentials with third parties for business purposes or operating PLANKA as a hosted service for third parties for any commercial gain whatsoever is prohibited. Commercial gain includes any form of payment, advertising revenue, data monetization, or indirect commercial benefit or business advantage.
+Sharing accounts/credentials with third parties for business purposes or operating PROJECT_SPRINT as a hosted service for third parties for any commercial gain whatsoever is prohibited. Commercial gain includes any form of payment, advertising revenue, data monetization, or indirect commercial benefit or business advantage.
 
-For all other PLANKA-based hosting services or shared use of PLANKA accounts across organizations, you need to buy a commercial PLANKA license.
+For all other PROJECT_SPRINT-based hosting services or shared use of PROJECT_SPRINT accounts across organizations, you need to buy a commercial PROJECT_SPRINT license.
 
 ### Limitations
 
@@ -74,7 +74,7 @@ If you use the software in violation of these terms, such use is not licensed, a
 
 ### Violation
 
-Violation of our restricted use clauses will constitute a material breach of terms. PLANKA Software GmbH reserves the right to immediately terminate your access to its services and to pursue all available legal and equitable remedies.
+Violation of our restricted use clauses will constitute a material breach of terms. PROJECT_SPRINT Software GmbH reserves the right to immediately terminate your access to its services and to pursue all available legal and equitable remedies.
 
 ### No Liability
 

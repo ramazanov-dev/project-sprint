@@ -1,0 +1,201 @@
+// src/components/common/Sidebar/Sidebar.module.scss
+
+.sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 260px;
+  background: #22252a; // из :global #app background
+  display: flex;
+  flex-direction: column;
+  padding: 24px 16px;
+  z-index: 100;
+  transition: all 0.2s ease;
+  border-right: 1px solid rgba(34, 36, 38, 0.15); // из border-color в react-datepicker
+
+  // Логотип
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 0 12px;
+    margin-bottom: 32px;
+
+    .logoIcon {
+      width: 32px;
+      height: 32px;
+      background: #2185d0; // из --yfm-color-accent
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      i {
+        color: white;
+        font-size: 18px;
+        margin: 0;
+      }
+    }
+
+    .logoText {
+      font-weight: 600;
+      font-size: 16px;
+      color: #ffffff;
+      letter-spacing: -0.01em;
+      font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif; // из react-datepicker font-family
+    }
+  }
+
+  // Секции меню
+  .section {
+    margin-bottom: 24px;
+
+    .sectionLabel {
+      font-size: 11px;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: rgba(255, 255, 255, 0.5); // полупрозрачный белый как в оригинале
+      padding: 0 12px;
+      margin-bottom: 8px;
+      font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+    }
+  }
+
+  // Меню
+  .menu {
+    background: transparent;
+    margin: 0;
+
+    .menuItem {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 8px 12px;
+      margin: 2px 0;
+      border-radius: 8px;
+      color: rgba(255, 255, 255, 0.7); // светлый текст
+      font-size: 14px;
+      font-weight: 500;
+      transition: all 0.15s ease;
+      cursor: pointer;
+      font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+
+      &:hover {
+        background: rgba(0, 0, 0, 0.2); // как в .react-datepicker__day--focused
+        color: #ffffff;
+      }
+
+      &.active {
+        background: #2185d0; // основной акцент из --yfm-color-accent
+        color: #ffffff;
+
+        .icon {
+          color: #ffffff;
+        }
+      }
+
+      .icon {
+        margin: 0;
+        font-size: 18px;
+        color: rgba(255, 255, 255, 0.5);
+        transition: color 0.15s ease;
+      }
+
+      &:hover .icon {
+        color: #ffffff;
+      }
+    }
+  }
+
+  // Футер
+  .footer {
+    margin-top: auto;
+    padding-top: 24px;
+
+    .version {
+      font-size: 12px;
+      color: rgba(255, 255, 255, 0.3);
+      text-align: center;
+      padding: 8px;
+      font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+    }
+  }
+}
+
+// Светлая тема (если будет переключение)
+:global(body.light-theme) .sidebar {
+  background: #ffffff;
+  border-right: 1px solid rgba(34, 36, 38, 0.15);
+
+  .logo {
+    .logoText {
+      color: #17394d; // из --yfm-color-text
+    }
+  }
+
+  .sectionLabel {
+    color: rgba(0, 0, 0, 0.5);
+  }
+
+  .menuItem {
+    color: #17394d; // основной цвет текста из yfm
+
+    &:hover {
+      background: rgba(0, 0, 0, 0.05); // из .mentions-input__suggestions__item--focused
+      color: rgba(0, 0, 0, 0.95);
+    }
+
+    &.active {
+      background: #2185d0;
+      color: #ffffff;
+    }
+
+    .icon {
+      color: rgba(0, 0, 0, 0.4);
+    }
+
+    &:hover .icon {
+      color: #2185d0;
+    }
+  }
+
+  .footer .version {
+    color: rgba(0, 0, 0, 0.2);
+  }
+}
+
+// Стили для скроллбара (из :global)
+.sidebar {
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.1);
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.25);
+    border-radius: 5px;
+
+    &:hover {
+      background: rgba(128, 135, 139, 0.8);
+    }
+  }
+}
+
+:global(body.light-theme) .sidebar {
+  ::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.05);
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.2);
+
+    &:hover {
+      background: rgba(128, 135, 139, 0.6);
+    }
+  }
+}

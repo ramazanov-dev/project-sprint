@@ -1,38 +1,38 @@
-**PLANKA Commercial License**
+**PROJECT_SPRINT Commercial License**
 
 Version 1.2 - Last updated: Nov 28, 2025
 
 Related files in English:
 
-- [PLANKA Community License EN.md](https://github.com/plankanban/planka/blob/master/LICENSES/PLANKA%20Community%20License%20EN.md)
-- PLANKA Commercial License EN.md (this file)
-- [PLANKA License Guide EN.md](https://github.com/plankanban/planka/blob/master/LICENSES/PLANKA%20License%20Guide%20EN.md)
+- [PROJECT_SPRINT Community License EN.md](https://github.com/plankanban/planka/blob/master/LICENSES/PROJECT_SPRINT%20Community%20License%20EN.md)
+- PROJECT_SPRINT Commercial License EN.md (this file)
+- [PROJECT_SPRINT License Guide EN.md](https://github.com/plankanban/planka/blob/master/LICENSES/PROJECT_SPRINT%20License%20Guide%20EN.md)
 
 Related files in German:
 
-- [PLANKA Community License DE.md](https://github.com/plankanban/planka/blob/master/LICENSES/PLANKA%20Community%20License%20DE.md)
-- [PLANKA Commercial License DE.md](https://github.com/plankanban/planka/blob/master/LICENSES/PLANKA%20Commercial%20License%20DE.md)
-- [PLANKA License Guide DE.md](https://github.com/plankanban/planka/blob/master/LICENSES/PLANKA%20License%20Guide%20DE.md)
+- [PROJECT_SPRINT Community License DE.md](https://github.com/plankanban/planka/blob/master/LICENSES/PROJECT_SPRINT%20Community%20License%20DE.md)
+- [PROJECT_SPRINT Commercial License DE.md](https://github.com/plankanban/planka/blob/master/LICENSES/PROJECT_SPRINT%20Commercial%20License%20DE.md)
+- [PROJECT_SPRINT License Guide DE.md](https://github.com/plankanban/planka/blob/master/LICENSES/PROJECT_SPRINT%20License%20Guide%20DE.md)
 
 ---
 
-# PLANKA Pro/Enterprise License
+# PROJECT_SPRINT Pro/Enterprise License
 
-Copyright (c) 2025 to present by PLANKA Software GmbH.
+Copyright (c) 2025 to present by PROJECT_SPRINT Software GmbH.
 
-Our software and associated documentation files (the "Software") may only be used in production if you (and any entity that you represent) hold a valid "PLANKA Pro/Enterprise License" corresponding to your usage. You agree that PLANKA Software GmbH and/or its licensors (as applicable) retain all right, title, and interest in and to all such modifications and/or patches, and all such modifications and/or patches may only be used, copied, modified, displayed, distributed, or otherwise exploited with a valid "PLANKA Pro/Enterprise License" for the corresponding usage. Notwithstanding the foregoing, you may copy and modify the Software for development and testing purposes without requiring a subscription. You agree that PLANKA Software GmbH and/or its licensors (as applicable) retain all right, title, and interest in and to all such modifications. You are not granted any other rights beyond what is expressly stated herein. Subject to the foregoing, it is forbidden to copy, merge, publish, distribute, sublicense, and/or sell the Software.
+Our software and associated documentation files (the "Software") may only be used in production if you (and any entity that you represent) hold a valid "PROJECT_SPRINT Pro/Enterprise License" corresponding to your usage. You agree that PROJECT_SPRINT Software GmbH and/or its licensors (as applicable) retain all right, title, and interest in and to all such modifications and/or patches, and all such modifications and/or patches may only be used, copied, modified, displayed, distributed, or otherwise exploited with a valid "PROJECT_SPRINT Pro/Enterprise License" for the corresponding usage. Notwithstanding the foregoing, you may copy and modify the Software for development and testing purposes without requiring a subscription. You agree that PROJECT_SPRINT Software GmbH and/or its licensors (as applicable) retain all right, title, and interest in and to all such modifications. You are not granted any other rights beyond what is expressly stated herein. Subject to the foregoing, it is forbidden to copy, merge, publish, distribute, sublicense, and/or sell the Software.
 
 #### Third-Party Components
 
 For all third-party components incorporated into our Software, those components are licensed under the original license provided by the owner of the applicable component.
 
-## PLANKA Pro/Enterprise Repositories
+## PROJECT_SPRINT Pro/Enterprise Repositories
 
-After purchasing a "PLANKA Pro/Enterprise License", you will receive access to our "PLANKA Pro/Enterprise" repositories. There you will find our latest stable builds, which have undergone extensive testing and are considered production-ready.
+After purchasing a "PROJECT_SPRINT Pro/Enterprise License", you will receive access to our "PROJECT_SPRINT Pro/Enterprise" repositories. There you will find our latest stable builds, which have undergone extensive testing and are considered production-ready.
 
-Important note on access scope: Standard access includes only the precompiled versions of our software. Access to the source code is granted only in exceptional cases and requires a separate agreement with PLANKA Software GmbH.
+Important note on access scope: Standard access includes only the precompiled versions of our software. Access to the source code is granted only in exceptional cases and requires a separate agreement with PROJECT_SPRINT Software GmbH.
 
-Regardless of access scope: The distribution of files, source code, or any parts thereof from our "PLANKA Pro/Enterprise" repositories to third parties who are not authorized for access is prohibited without prior written permission from PLANKA Software GmbH.
+Regardless of access scope: The distribution of files, source code, or any parts thereof from our "PROJECT_SPRINT Pro/Enterprise" repositories to third parties who are not authorized for access is prohibited without prior written permission from PROJECT_SPRINT Software GmbH.
 
 ## Limited Warranty
 

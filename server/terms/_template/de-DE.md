@@ -10,18 +10,18 @@ Eine Anleitung zum Anpassen dieser Vorlage finden Sie in diesem [Guide](https://
 
 **Stand: 11. Februar 2026 – v1.0**
 
-## 1. Geltungsbereich und Ihr Verhältnis zu PLANKA
+## 1. Geltungsbereich und Ihr Verhältnis zu PROJECT_SPRINT
 
 ### 1.1 Was dieses Dokument regelt
-Diese Nutzungsbedingungen gelten für Sie als Endbenutzer der Software PLANKA in der On-Premise-Version. Die Software wird auf den Systemen Ihres Arbeitgebers oder Auftraggebers betrieben. Sie regeln die Bedingungen, unter denen Sie die Software nutzen dürfen – unabhängig davon, ob Sie Mitarbeiter, externer Dienstleister oder eingeladener Nutzer der Organisation sind, die PLANKA für Sie bereitgestellt hat.
+Diese Nutzungsbedingungen gelten für Sie als Endbenutzer der Software PROJECT_SPRINT in der On-Premise-Version. Die Software wird auf den Systemen Ihres Arbeitgebers oder Auftraggebers betrieben. Sie regeln die Bedingungen, unter denen Sie die Software nutzen dürfen – unabhängig davon, ob Sie Mitarbeiter, externer Dienstleister oder eingeladener Nutzer der Organisation sind, die PROJECT_SPRINT für Sie bereitgestellt hat.
 
 ### 1.2 Wer ist wer?
-- **„Anbieter"** oder **„wir"**: PLANKA Software GmbH, Lindauer Str. 4, 87439 Kempten, Deutschland
-- **„Kunde"** oder **„Instanz-Betreiber"**: Die Organisation, die die Lizenz für PLANKA erworben hat und die Software auf eigenen Systemen betreibt
-- **„Sie"** oder **„Endbenutzer"**: Die natürliche Person, die PLANKA über die Installation des Kunden nutzt
+- **„Anbieter"** oder **„wir"**: PROJECT_SPRINT Software GmbH, Lindauer Str. 4, 87439 Kempten, Deutschland
+- **„Kunde"** oder **„Instanz-Betreiber"**: Die Organisation, die die Lizenz für PROJECT_SPRINT erworben hat und die Software auf eigenen Systemen betreibt
+- **„Sie"** oder **„Endbenutzer"**: Die natürliche Person, die PROJECT_SPRINT über die Installation des Kunden nutzt
 
 ### 1.3 Vertragliche Einordnung
-Ihr Zugang zu PLANKA basiert auf dem Vertrag zwischen dem Kunden und uns (Allgemeine Geschäftsbedingungen). Dieses Dokument ergänzt diese AGB und regelt Ihre persönlichen Pflichten als Endbenutzer. Es begründet kein eigenständiges Vertragsverhältnis zwischen Ihnen und dem Anbieter.
+Ihr Zugang zu PROJECT_SPRINT basiert auf dem Vertrag zwischen dem Kunden und uns (Allgemeine Geschäftsbedingungen). Dieses Dokument ergänzt diese AGB und regelt Ihre persönlichen Pflichten als Endbenutzer. Es begründet kein eigenständiges Vertragsverhältnis zwischen Ihnen und dem Anbieter.
 
 ## 2. Ihr Konto
 
@@ -37,7 +37,7 @@ Ihr Zugang wird durch den Kunden verwaltet. Der Kunde kann Ihren Zugang jederzei
 ## 3. Zulässige Nutzung
 
 ### 3.1 Bestimmungsgemäße Nutzung
-Sie dürfen PLANKA ausschließlich für die Zwecke nutzen, für die der Kunde Ihnen den Zugang eingerichtet hat, und im Rahmen der Ihnen zugewiesenen Rolle und Berechtigungen.
+Sie dürfen PROJECT_SPRINT ausschließlich für die Zwecke nutzen, für die der Kunde Ihnen den Zugang eingerichtet hat, und im Rahmen der Ihnen zugewiesenen Rolle und Berechtigungen.
 
 ### 3.2 Verbotene Nutzungen
 Folgendes ist ausdrücklich untersagt:
@@ -50,16 +50,16 @@ Folgendes ist ausdrücklich untersagt:
 - Kopieren, Vervielfältigen oder Weitergabe der Software oder von Teilen davon
 
 ### 3.3 Inhaltsverantwortung
-Sie sind für alle Inhalte verantwortlich, die Sie in PLANKA erstellen, hochladen oder teilen. Stellen Sie sicher, dass diese Inhalte keine Rechte Dritter verletzen und im Einklang mit geltendem Recht stehen.
+Sie sind für alle Inhalte verantwortlich, die Sie in PROJECT_SPRINT erstellen, hochladen oder teilen. Stellen Sie sicher, dass diese Inhalte keine Rechte Dritter verletzen und im Einklang mit geltendem Recht stehen.
 
 ## 4. Geistiges Eigentum und Ihre Inhalte
 
-Die Software PLANKA ist Eigentum der PLANKA Software GmbH. Ihre Nutzungsberechtigung stellt keine Übertragung von Eigentumsrechten dar. Sie behalten das Eigentum an allen Inhalten, die Sie innerhalb von PLANKA erstellen. Die Verwaltung und eventuelle Herausgabe Ihrer Inhalte obliegt dem Kunden (Instanz-Betreiber), nicht dem Anbieter.
+Die Software PROJECT_SPRINT ist Eigentum der PROJECT_SPRINT Software GmbH. Ihre Nutzungsberechtigung stellt keine Übertragung von Eigentumsrechten dar. Sie behalten das Eigentum an allen Inhalten, die Sie innerhalb von PROJECT_SPRINT erstellen. Die Verwaltung und eventuelle Herausgabe Ihrer Inhalte obliegt dem Kunden (Instanz-Betreiber), nicht dem Anbieter.
 
 ## 5. Datenschutz
 
 ### 5.1 Hinweis zur Datenverarbeitung
-Die On-Premise-Version von PLANKA wird auf den Systemen des Kunden betrieben. Der Anbieter hat keinen Zugang zu Ihren Daten und verarbeitet keine personenbezogenen Daten der Endbenutzer. Allein verantwortlich für den Datenschutz innerhalb der PLANKA-Installation ist der Kunde (Instanz-Betreiber). Für Fragen zum Datenschutz wenden Sie sich bitte an Ihren Instanz-Betreiber.
+Die On-Premise-Version von PROJECT_SPRINT wird auf den Systemen des Kunden betrieben. Der Anbieter hat keinen Zugang zu Ihren Daten und verarbeitet keine personenbezogenen Daten der Endbenutzer. Allein verantwortlich für den Datenschutz innerhalb der PROJECT_SPRINT-Installation ist der Kunde (Instanz-Betreiber). Für Fragen zum Datenschutz wenden Sie sich bitte an Ihren Instanz-Betreiber.
 
 ### 5.2 Telemetriedaten
 Die Software kann anonymisierte technische Daten an den Anbieter übermitteln, soweit dies zur Lizenzprüfung oder zur Verbesserung der Software erforderlich ist. Personenbezogene Daten der Endbenutzer werden hierbei nicht übermittelt. Einzelheiten ergeben sich aus der technischen Dokumentation.
@@ -72,7 +72,7 @@ Die Haftung des Anbieters gegenüber Endbenutzern richtet sich nach den gesetzli
 
 ## 7. Vertraulichkeit
 
-Zugangsdaten, Lizenzinformationen und interne Daten, auf die Sie über PLANKA Zugriff erhalten, sind vertraulich zu behandeln. Die Vertraulichkeitspflicht gilt über die Dauer Ihrer Zugangsberechtigung hinaus fort.
+Zugangsdaten, Lizenzinformationen und interne Daten, auf die Sie über PROJECT_SPRINT Zugriff erhalten, sind vertraulich zu behandeln. Die Vertraulichkeitspflicht gilt über die Dauer Ihrer Zugangsberechtigung hinaus fort.
 
 ## 8. Verstöße und Konsequenzen
 
@@ -80,9 +80,9 @@ Bei Verstößen gegen diese Nutzungsbedingungen ist der Anbieter berechtigt, den
 
 ## 9. Änderungen und anwendbares Recht
 
-Der Anbieter kann diese Nutzungsbedingungen mit Wirkung für die Zukunft ändern. Änderungen werden Ihnen beim nächsten Login angezeigt und erfordern Ihre erneute Bestätigung. Ohne Bestätigung ist eine weitere Nutzung von PLANKA nicht möglich. Es gilt deutsches Recht.
+Der Anbieter kann diese Nutzungsbedingungen mit Wirkung für die Zukunft ändern. Änderungen werden Ihnen beim nächsten Login angezeigt und erfordern Ihre erneute Bestätigung. Ohne Bestätigung ist eine weitere Nutzung von PROJECT_SPRINT nicht möglich. Es gilt deutsches Recht.
 
-*PLANKA Software GmbH · Lindauer Str. 4 · 87439 Kempten · Deutschland*
+*PROJECT_SPRINT Software GmbH · Lindauer Str. 4 · 87439 Kempten · Deutschland*
 
 [confirmations]::
 ---

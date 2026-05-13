@@ -4,18 +4,18 @@
 
 ## Teil I – Nutzungsbedingungen
 
-### 1. Geltungsbereich und Ihr Verhältnis zu PLANKA
+### 1. Geltungsbereich und Ihr Verhältnis zu PROJECT_SPRINT
 
 #### 1.1 Was dieses Dokument regelt
-Diese Nutzungsbedingungen gelten für Sie als Endbenutzer der cloudbasierten Software PLANKA (SaaS). Sie regeln die Bedingungen, unter denen Sie die Software nutzen dürfen – unabhängig davon, ob Sie Mitarbeiter, externer Dienstleister oder eingeladener Nutzer der Organisation sind, die PLANKA für Sie bereitgestellt hat.
+Diese Nutzungsbedingungen gelten für Sie als Endbenutzer der cloudbasierten Software PROJECT_SPRINT (SaaS). Sie regeln die Bedingungen, unter denen Sie die Software nutzen dürfen – unabhängig davon, ob Sie Mitarbeiter, externer Dienstleister oder eingeladener Nutzer der Organisation sind, die PROJECT_SPRINT für Sie bereitgestellt hat.
 
 #### 1.2 Wer ist wer?
-- **„Anbieter"** oder **„wir"**: PLANKA Software GmbH, Lindauer Str. 4, 87439 Kempten, Deutschland
-- **„Kunde"** oder **„Instanz-Betreiber"**: Die Organisation, die den Vertrag mit uns über die Bereitstellung von PLANKA geschlossen hat
-- **„Sie"** oder **„Endbenutzer"**: Die natürliche Person, die PLANKA über das Konto des Kunden nutzt
+- **„Anbieter"** oder **„wir"**: PROJECT_SPRINT Software GmbH, Lindauer Str. 4, 87439 Kempten, Deutschland
+- **„Kunde"** oder **„Instanz-Betreiber"**: Die Organisation, die den Vertrag mit uns über die Bereitstellung von PROJECT_SPRINT geschlossen hat
+- **„Sie"** oder **„Endbenutzer"**: Die natürliche Person, die PROJECT_SPRINT über das Konto des Kunden nutzt
 
 #### 1.3 Vertragliche Einordnung
-Ihr Zugang zu PLANKA basiert auf dem Vertrag zwischen dem Kunden und uns (Allgemeine Geschäftsbedingungen). Dieses Dokument ergänzt diese AGB und regelt Ihre persönlichen Pflichten als Endbenutzer. Es begründet kein eigenständiges Vertragsverhältnis zwischen Ihnen und dem Anbieter.
+Ihr Zugang zu PROJECT_SPRINT basiert auf dem Vertrag zwischen dem Kunden und uns (Allgemeine Geschäftsbedingungen). Dieses Dokument ergänzt diese AGB und regelt Ihre persönlichen Pflichten als Endbenutzer. Es begründet kein eigenständiges Vertragsverhältnis zwischen Ihnen und dem Anbieter.
 
 ### 2. Ihr Konto
 
@@ -31,7 +31,7 @@ Ihr Zugang wird durch den Kunden verwaltet. Der Kunde kann Ihren Zugang jederzei
 ### 3. Zulässige Nutzung
 
 #### 3.1 Bestimmungsgemäße Nutzung
-Sie dürfen PLANKA ausschließlich für die Zwecke nutzen, für die der Kunde Ihnen den Zugang eingerichtet hat, und im Rahmen der Ihnen zugewiesenen Rolle und Berechtigungen.
+Sie dürfen PROJECT_SPRINT ausschließlich für die Zwecke nutzen, für die der Kunde Ihnen den Zugang eingerichtet hat, und im Rahmen der Ihnen zugewiesenen Rolle und Berechtigungen.
 
 #### 3.2 Verbotene Nutzungen
 Folgendes ist ausdrücklich untersagt:
@@ -43,15 +43,15 @@ Folgendes ist ausdrücklich untersagt:
 - Reverse Engineering, Dekompilierung oder Disassemblierung der Software
 
 #### 3.3 Inhaltsverantwortung
-Sie sind für alle Inhalte verantwortlich, die Sie in PLANKA erstellen, hochladen oder teilen. Stellen Sie sicher, dass diese Inhalte keine Rechte Dritter verletzen und im Einklang mit geltendem Recht stehen.
+Sie sind für alle Inhalte verantwortlich, die Sie in PROJECT_SPRINT erstellen, hochladen oder teilen. Stellen Sie sicher, dass diese Inhalte keine Rechte Dritter verletzen und im Einklang mit geltendem Recht stehen.
 
 ### 4. Geistiges Eigentum und Ihre Inhalte
 
-Die Software PLANKA ist Eigentum der PLANKA Software GmbH. Ihre Nutzungsberechtigung stellt keine Übertragung von Eigentumsrechten dar. Sie behalten das Eigentum an allen Inhalten, die Sie innerhalb von PLANKA erstellen. Die Verwaltung und eventuelle Herausgabe Ihrer Inhalte obliegt dem Kunden (Instanz-Betreiber), nicht dem Anbieter.
+Die Software PROJECT_SPRINT ist Eigentum der PROJECT_SPRINT Software GmbH. Ihre Nutzungsberechtigung stellt keine Übertragung von Eigentumsrechten dar. Sie behalten das Eigentum an allen Inhalten, die Sie innerhalb von PROJECT_SPRINT erstellen. Die Verwaltung und eventuelle Herausgabe Ihrer Inhalte obliegt dem Kunden (Instanz-Betreiber), nicht dem Anbieter.
 
 ### 5. Verfügbarkeit, Haftung und Datensicherung
 
-Der Anbieter ist bestrebt, PLANKA mit hoher Verfügbarkeit bereitzustellen. Wartungsarbeiten, technische Störungen oder höhere Gewalt können zu vorübergehenden Einschränkungen führen. Ein Anspruch auf ununterbrochene Verfügbarkeit besteht nicht.
+Der Anbieter ist bestrebt, PROJECT_SPRINT mit hoher Verfügbarkeit bereitzustellen. Wartungsarbeiten, technische Störungen oder höhere Gewalt können zu vorübergehenden Einschränkungen führen. Ein Anspruch auf ununterbrochene Verfügbarkeit besteht nicht.
 
 Die Haftung des Anbieters gegenüber Endbenutzern richtet sich nach den gesetzlichen Bestimmungen und den Regelungen in den AGB zwischen dem Anbieter und dem Kunden. Der Anbieter haftet nicht für Schäden, die durch missbräuchliche oder vertragswidrige Nutzung entstehen.
 
@@ -59,7 +59,7 @@ Erstellen Sie regelmäßig eigene Sicherungskopien Ihrer wichtigen Inhalte, sofe
 
 ### 6. Vertraulichkeit
 
-Zugangsdaten, Lizenzinformationen und interne Daten, auf die Sie über PLANKA Zugriff erhalten, sind vertraulich zu behandeln. Die Vertraulichkeitspflicht gilt über die Dauer Ihrer Zugangsberechtigung hinaus fort.
+Zugangsdaten, Lizenzinformationen und interne Daten, auf die Sie über PROJECT_SPRINT Zugriff erhalten, sind vertraulich zu behandeln. Die Vertraulichkeitspflicht gilt über die Dauer Ihrer Zugangsberechtigung hinaus fort.
 
 ### 7. Verstöße und Konsequenzen
 
@@ -67,7 +67,7 @@ Bei Verstößen gegen diese Nutzungsbedingungen ist der Anbieter berechtigt, Ihr
 
 ### 8. Änderungen und anwendbares Recht
 
-Der Anbieter kann diese Nutzungsbedingungen mit Wirkung für die Zukunft ändern. Änderungen werden Ihnen beim nächsten Login angezeigt und erfordern Ihre erneute Bestätigung. Ohne Bestätigung ist eine weitere Nutzung von PLANKA nicht möglich. Es gilt deutsches Recht.
+Der Anbieter kann diese Nutzungsbedingungen mit Wirkung für die Zukunft ändern. Änderungen werden Ihnen beim nächsten Login angezeigt und erfordern Ihre erneute Bestätigung. Ohne Bestätigung ist eine weitere Nutzung von PROJECT_SPRINT nicht möglich. Es gilt deutsches Recht.
 
 ---
 
@@ -75,19 +75,19 @@ Der Anbieter kann diese Nutzungsbedingungen mit Wirkung für die Zukunft ändern
 
 ### 1. Wer ist verantwortlich?
 
-**Verantwortlicher** für die Datenverarbeitung innerhalb Ihrer PLANKA-Instanz ist Ihr Arbeitgeber bzw. Auftraggeber (der „Instanz-Betreiber"). Dieser entscheidet, welche Daten in PLANKA verarbeitet werden.
+**Verantwortlicher** für die Datenverarbeitung innerhalb Ihrer PROJECT_SPRINT-Instanz ist Ihr Arbeitgeber bzw. Auftraggeber (der „Instanz-Betreiber"). Dieser entscheidet, welche Daten in PROJECT_SPRINT verarbeitet werden.
 
-**PLANKA Software GmbH** (Lindauer Str. 4, 87439 Kempten, Deutschland) verarbeitet Ihre Daten als Auftragsverarbeiter im Auftrag des Instanz-Betreibers.
+**PROJECT_SPRINT Software GmbH** (Lindauer Str. 4, 87439 Kempten, Deutschland) verarbeitet Ihre Daten als Auftragsverarbeiter im Auftrag des Instanz-Betreibers.
 
 Bei Datenschutzfragen wenden Sie sich bitte an Ihren Instanz-Betreiber oder an uns unter: datenschutz@planka.group
 
 ### 2. Welche Daten werden verarbeitet?
 
-Bei der Nutzung von PLANKA verarbeiten wir im Auftrag Ihres Instanz-Betreibers:
+Bei der Nutzung von PROJECT_SPRINT verarbeiten wir im Auftrag Ihres Instanz-Betreibers:
 
 - **Kontodaten:** Benutzername, E-Mail-Adresse, Name (sofern angegeben), Profilbild (sofern hochgeladen), Rolle und Berechtigungen
 - **Technische Daten:** IP-Adresse, Browser-Typ, Betriebssystem, Zeitpunkt des Zugriffs
-- **Ihre Inhalte:** Alles, was Sie in PLANKA erstellen, hochladen oder teilen (Boards, Karten, Kommentare, Anhänge)
+- **Ihre Inhalte:** Alles, was Sie in PROJECT_SPRINT erstellen, hochladen oder teilen (Boards, Karten, Kommentare, Anhänge)
 
 ### 3. Warum werden diese Daten verarbeitet?
 
@@ -105,14 +105,14 @@ Ihre Daten werden für die Dauer Ihres aktiven Kontos gespeichert. Nach Beendigu
 
 Ihre Daten werden ausschließlich verarbeitet von:
 - **Ihrem Instanz-Betreiber** (als Verantwortlicher)
-- **PLANKA Software GmbH** (als Auftragsverarbeiter)
+- **PROJECT_SPRINT Software GmbH** (als Auftragsverarbeiter)
 - **Hosting-Provider** (als Sub-Auftragsverarbeiter, Rechenzentren innerhalb der EU für EU-Kunden)
 
 Ihre Inhalte und personenbezogenen Daten werden nicht an Dritte weitergegeben, es sei denn, ein rechtskräftiger richterlicher Beschluss ordnet dies an.
 
 ### 6. Cookies
 
-PLANKA verwendet ausschließlich technisch notwendige Cookies (Session- und Login-Cookies). Tracking- oder Marketing-Cookies werden nicht eingesetzt.
+PROJECT_SPRINT verwendet ausschließlich technisch notwendige Cookies (Session- und Login-Cookies). Tracking- oder Marketing-Cookies werden nicht eingesetzt.
 
 ### 7. Ihre Rechte
 
@@ -122,7 +122,7 @@ Sie haben jederzeit das Recht, eine erteilte Einwilligung zu widerrufen sowie si
 
 Die vollständige Datenschutzerklärung mit allen Details zu Sub-Auftragsverarbeitern, technischen Maßnahmen und Drittlandsübermittlungen ist auf unserer Website unter [Datenschutzerklärung](https://planka.app/privacy-app) einsehbar.
 
-*PLANKA Software GmbH · Lindauer Str. 4 · 87439 Kempten · Deutschland*
+*PROJECT_SPRINT Software GmbH · Lindauer Str. 4 · 87439 Kempten · Deutschland*
 
 [confirmations]::
 ---

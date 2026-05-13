@@ -1,5 +1,5 @@
 /*!
- * Copyright (c) 2026 PLANKA Software GmbH
+ * Copyright (c) 2026 PROJECT_SPRINT Software GmbH
  * Licensed under the Fair Use License: https://github.com/plankanban/planka/blob/master/LICENSE.md
  */
 

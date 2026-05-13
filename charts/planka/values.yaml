@@ -36,7 +36,7 @@ admin_password: ""
 admin_name: ""
 admin_username: ""
 
-# Base url for PLANKA. Will override `ingress.hosts[0].host`
+# Base url for PROJECT_SPRINT. Will override `ingress.hosts[0].host`
 # Defaults to `http://localhost:3000` if ingress is disabled.
 baseUrl: ""
 
@@ -69,7 +69,7 @@ service:
   annotations: {}
   type: ClusterIP
   port: 1337
-  ## @param service.containerPort PLANKA HTTP container port
+  ## @param service.containerPort PROJECT_SPRINT HTTP container port
   ## If empty will default to 1337
   ##
   containerPort: 1337
@@ -194,7 +194,7 @@ oidc:
 
   ## @param oidc.scopes A list of scopes required for OIDC client.
   ## If empty will default to `openid`, `profile` and `email`
-  ## NOTE: PLANKA needs the email and name claims
+  ## NOTE: PROJECT_SPRINT needs the email and name claims
   ##
   scopes: []
 
@@ -265,7 +265,7 @@ terms:
   customFiles: {}
 
 ## Extra volume mounts configuration
-## Mount ConfigMaps, Secrets, and arbitrary volumes to the PLANKA container
+## Mount ConfigMaps, Secrets, and arbitrary volumes to the PROJECT_SPRINT container
 ## This allows mounting any pre-existing ConfigMaps, Secrets, or other volume types
 ##
 extraMounts: []
@@ -309,7 +309,7 @@ extraMounts: []
 
 extraContainers: []
 ## Extra sidecar containers
-## Add additional containers to the PLANKA pod
+## Add additional containers to the PROJECT_SPRINT pod
 ##
 ## Example extraContainers:
 ## extraContainers:

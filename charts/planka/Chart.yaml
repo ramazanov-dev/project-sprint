@@ -1,6 +1,6 @@
 apiVersion: v2
 name: planka
-description: A Helm chart to deploy PLANKA and it's dependencies.
+description: A Helm chart to deploy PROJECT_SPRINT and it's dependencies.
 
 # A chart can be either an 'application' or a 'library' chart.
 #

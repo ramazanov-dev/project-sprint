@@ -2,7 +2,7 @@
 
   ![Logo](https://raw.githubusercontent.com/plankanban/planka/master/assets/logo.png)
 
-  # PLANKA
+  # PROJECT_SPRINT
 
   _Project mastering driven by fun_
 
@@ -25,11 +25,11 @@
 
 ## How to Deploy
 
-PLANKA is easy to install using multiple methods - learn more in the [installation guide](https://docs.planka.cloud/docs/welcome/).
+PROJECT_SPRINT is easy to install using multiple methods - learn more in the [installation guide](https://docs.planka.cloud/docs/welcome/).
 
 For configuration and environment settings, see the [configuration section](https://docs.planka.cloud/docs/category/configuration/).
 
-Interested in a hosted or [Pro version](https://planka.app/pro) of PLANKA? Check out the pricing on our [website](https://planka.app/pricing).
+Interested in a hosted or [Pro version](https://planka.app/pro) of PROJECT_SPRINT? Check out the pricing on our [website](https://planka.app/pricing).
 
 ## Notes App
 
@@ -48,14 +48,14 @@ For any security issues, please do not create a public issue on GitHub - instead
 
 ## License
 
-PLANKA is [fair-code](https://faircode.io) distributed under the [Fair Use License](https://github.com/plankanban/planka/blob/master/LICENSES/PLANKA%20Community%20License%20EN.md) and [PLANKA Pro/Enterprise License](https://github.com/plankanban/planka/blob/master/LICENSES/PLANKA%20Commercial%20License%20EN.md).
+PROJECT_SPRINT is [fair-code](https://faircode.io) distributed under the [Fair Use License](https://github.com/plankanban/planka/blob/master/LICENSES/PROJECT_SPRINT%20Community%20License%20EN.md) and [PROJECT_SPRINT Pro/Enterprise License](https://github.com/plankanban/planka/blob/master/LICENSES/PROJECT_SPRINT%20Commercial%20License%20EN.md).
 
 - **Source Available:** The source code is always visible
 - **Self-Hostable:** Deploy and host it anywhere
 - **Extensible:** Customize with your own functionality
 - **Enterprise Licenses:** Available for additional features and support
 
-For more details, check the [License Guide](https://github.com/plankanban/planka/blob/master/LICENSES/PLANKA%20License%20Guide%20EN.md).
+For more details, check the [License Guide](https://github.com/plankanban/planka/blob/master/LICENSES/PROJECT_SPRINT%20License%20Guide%20EN.md).
 
 ## Contributing
 

@@ -1,4 +1,4 @@
-# Copyright (c) 2024 PLANKA Software GmbH
+# Copyright (c) 2024 PROJECT_SPRINT Software GmbH
 # Licensed under the Fair Use License: https://github.com/plankanban/planka/blob/master/LICENSE.md
 
 import sys

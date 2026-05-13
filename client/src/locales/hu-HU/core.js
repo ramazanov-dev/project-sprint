@@ -21,7 +21,7 @@ export default {
   translation: {
     common: {
       aboutApp_title: 'Az alkalmazásról',
-      aboutPlanka_title: 'PLANKA-ról',
+      aboutPlanka_title: 'PROJECT_SPRINT-ról',
       accessToken: 'Hozzáférési token',
       account: 'Fiók',
       actions: 'Műveletek',
@@ -138,8 +138,8 @@ export default {
       customFieldGroups_title: 'Egyedi mezőcsoportok',
       customField_title: 'Egyedi mező',
       customFields_title: 'Egyedi mezők',
-      discoverPlankaPro: '✨ Több funkció a tábláidhoz: Fedezd fel a PLANKA Pro-t',
-      discoverPlankaPro_title: 'Fedezd fel a PLANKA Pro-t',
+      discoverPlankaPro: '✨ Több funkció a tábláidhoz: Fedezd fel a PROJECT_SPRINT Pro-t',
+      discoverPlankaPro_title: 'Fedezd fel a PROJECT_SPRINT Pro-t',
       upgradeTeamToPro_title: 'Csapat frissítése Pro-ra',
       proFeatureCalendar: '✨ Naptár nézet a tábláidhoz',
       proFeatureRecurringCards: '✨ Ismétlődő kártyák és automatizálás',
@@ -269,7 +269,7 @@ export default {
       passwordIsSet: 'Jelszó beállítva',
       phone: 'Telefon',
       plankaUsesAppriseToSendNotificationsToOver100PopularServices:
-        'A PLANKA az <1><0>Apprise</0></1> szolgáltatást használja több mint 100 népszerű szolgáltatás értesítéseinek küldésére.',
+        'A PROJECT_SPRINT az <1><0>Apprise</0></1> szolgáltatást használja több mint 100 népszerű szolgáltatás értesítéseinek küldésére.',
       port: 'Port',
       preferences: 'Beállítások',
       pressPasteShortcutToAddAttachmentFromClipboard:

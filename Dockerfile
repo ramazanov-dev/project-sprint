@@ -33,7 +33,7 @@ USER node
 WORKDIR /app
 
 COPY --chown=node:node LICENSE.md .
-COPY --chown=node:node ["LICENSES/PLANKA Community License DE.md", "LICENSE_DE.md"]
+COPY --chown=node:node ["LICENSES/PROJECT_SPRINT Community License DE.md", "LICENSE_DE.md"]
 
 COPY --from=server --chown=node:node /app/node_modules node_modules
 COPY --from=server --chown=node:node /app/dist .

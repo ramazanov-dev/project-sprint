@@ -37,7 +37,7 @@ jobs:
       - name: Include licenses into dist
         run: |
           mv LICENSE.md server/dist
-          mv "LICENSES/PLANKA Community License DE.md" server/dist/LICENSE_DE.md
+          mv "LICENSES/PROJECT_SPRINT Community License DE.md" server/dist/LICENSE_DE.md
 
       - name: Include built client into dist
         run: |

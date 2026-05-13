@@ -21,7 +21,7 @@ export default {
   translation: {
     common: {
       aboutApp_title: "À propos de l'application",
-      aboutPlanka_title: 'À propos de PLANKA',
+      aboutPlanka_title: 'À propos de PROJECT_SPRINT',
       accessToken: "Jeton d'accès",
       account: 'Compte',
       actions: 'Actions',
@@ -148,8 +148,8 @@ export default {
       customFieldGroups_title: 'Groupes de champs personnalisés',
       customField_title: 'Champ personnalisé',
       customFields_title: 'Champs personnalisés',
-      discoverPlankaPro: '✨ Plus de fonctionnalités pour vos tableaux : Découvrez PLANKA Pro',
-      discoverPlankaPro_title: 'Découvrez PLANKA Pro',
+      discoverPlankaPro: '✨ Plus de fonctionnalités pour vos tableaux : Découvrez PROJECT_SPRINT Pro',
+      discoverPlankaPro_title: 'Découvrez PROJECT_SPRINT Pro',
       upgradeTeamToPro_title: "Passer l'équipe à Pro",
       proFeatureCalendar: '✨ Vue calendrier pour vos tableaux',
       proFeatureRecurringCards: '✨ Cartes récurrentes et automatisation',
@@ -279,7 +279,7 @@ export default {
       passwordIsSet: 'Mot de passe défini',
       phone: 'Téléphone',
       plankaUsesAppriseToSendNotificationsToOver100PopularServices:
-        'PLANKA utilise <1><0>Apprise</0></1> pour envoyer des notifications vers plus de 100 services populaires.',
+        'PROJECT_SPRINT utilise <1><0>Apprise</0></1> pour envoyer des notifications vers plus de 100 services populaires.',
       port: 'Port',
       preferences: 'Préférences',
       pressPasteShortcutToAddAttachmentFromClipboard:

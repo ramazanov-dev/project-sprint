@@ -1,6 +1,6 @@
-# PLANKA Helm Chart
+# PROJECT_SPRINT Helm Chart
 
-This Helm Chart simplifies the deployment of [PLANKA](https://github.com/plankanban/planka) on Kubernetes.
+This Helm Chart simplifies the deployment of [PROJECT_SPRINT](https://github.com/plankanban/planka) on Kubernetes.
 
 Shoutout to [this issue](https://github.com/plankanban/planka/issues/192) for requesting a Helm Chart!
 
@@ -34,7 +34,7 @@ helm install planka . --set secretkey=$SECRETKEY  \
 
 > **Note:** The command `openssl rand -hex 64` is needed to create a random hexadecimal key for planka. On Windows you can use Git Bash to run that command.
 
-To access PLANKA you can port forward using the following command:
+To access PROJECT_SPRINT you can port forward using the following command:
 
 ```bash
 kubectl port-forward $POD_NAME 3000:1337
@@ -42,7 +42,7 @@ kubectl port-forward $POD_NAME 3000:1337
 
 ### Accessing Externally
 
-To access PLANKA externally you can use the following configuration
+To access PROJECT_SPRINT externally you can use the following configuration
 
 ```bash
 # HTTP only
@@ -70,7 +70,7 @@ or create a values.yaml file like:
 
 ````yaml
 secretkey: "<InsertSecretKey>"
-# The admin section needs to be present for new instances of PLANKA, after the first start you can remove the lines starting with admin_. If you want the admin user to be unchangeable admin_email: has to stay
+# The admin section needs to be present for new instances of PROJECT_SPRINT, after the first start you can remove the lines starting with admin_. If you want the admin user to be unchangeable admin_email: has to stay
 # After changing the config you have to run ```helm upgrade  planka . -f values.yaml```
 
 # Admin user
@@ -102,7 +102,7 @@ helm install planka . -f values.yaml
 
 ### Things to consider if production hosting
 
-If you want to host PLANKA for more than just playing around with, you might want to do the following things:
+If you want to host PROJECT_SPRINT for more than just playing around with, you might want to do the following things:
 
 - Create a `values.yaml` with your config, as this will make applying upgrades much easier in the future.
 - Create your `secretkey` once and store it either in a secure vault, or in your `values.yaml` file so it will be the same for upgrading in the future.
@@ -114,7 +114,7 @@ Any questions or concerns, [raise an issue](https://github.com/Chris-Greaves/pla
 
 ### Extra Volume Mounts
 
-The Helm chart supports mounting arbitrary ConfigMaps, Secrets, and Volumes to the PLANKA deployment using the `extraMounts` configuration. This is especially useful for scenarios like:
+The Helm chart supports mounting arbitrary ConfigMaps, Secrets, and Volumes to the PROJECT_SPRINT deployment using the `extraMounts` configuration. This is especially useful for scenarios like:
 
 - Mounting custom CA certificates for OIDC with self-hosted identity providers
 - Adding custom configuration files

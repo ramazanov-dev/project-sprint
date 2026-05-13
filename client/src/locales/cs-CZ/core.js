@@ -21,7 +21,7 @@ export default {
   translation: {
     common: {
       aboutApp_title: 'O aplikaci',
-      aboutPlanka_title: 'O PLANKA',
+      aboutPlanka_title: 'O PROJECT_SPRINT',
       accessToken: 'Přístupový token',
       account: 'Účet',
       actions: 'Akce',
@@ -140,8 +140,8 @@ export default {
       customFieldGroups_title: 'Skupina vlastních polí',
       customField_title: 'Vlastní pole',
       customFields_title: 'Vlastní pole',
-      discoverPlankaPro: '✨ Více funkcí pro vaše tabule: Objevte PLANKA Pro',
-      discoverPlankaPro_title: 'Objevte PLANKA Pro',
+      discoverPlankaPro: '✨ Více funkcí pro vaše tabule: Objevte PROJECT_SPRINT Pro',
+      discoverPlankaPro_title: 'Objevte PROJECT_SPRINT Pro',
       upgradeTeamToPro_title: 'Upgradovat tým na Pro',
       proFeatureCalendar: '✨ Zobrazení kalendáře pro vaše tabule',
       proFeatureRecurringCards: '✨ Opakující se karty a automatizace',
@@ -271,7 +271,7 @@ export default {
       passwordIsSet: 'Heslo je nastaveno',
       phone: 'Telefon',
       plankaUsesAppriseToSendNotificationsToOver100PopularServices:
-        'PLANKA používá <1><0>Apprise</0></1> k zasílání oznámení do více než 100 oblíbených služeb.',
+        'PROJECT_SPRINT používá <1><0>Apprise</0></1> k zasílání oznámení do více než 100 oblíbených služeb.',
       port: 'Port',
       preferences: 'Volby',
       pressPasteShortcutToAddAttachmentFromClipboard:

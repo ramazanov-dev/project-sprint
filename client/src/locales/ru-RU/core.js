@@ -21,7 +21,7 @@ export default {
   translation: {
     common: {
       aboutApp_title: 'О приложении',
-      aboutPlanka_title: 'О PLANKA',
+      aboutPlanka_title: 'О PROJECT_SPRINT',
       accessToken: 'Токен доступа',
       account: 'Учетная запись',
       actions: 'Действия',
@@ -145,8 +145,8 @@ export default {
       customFieldGroups_title: 'Группы настраиваемых полей',
       customField_title: 'Настраиваемое поле',
       customFields_title: 'Настраиваемые поля',
-      discoverPlankaPro: '✨ Больше возможностей для ваших досок: Откройте PLANKA Pro',
-      discoverPlankaPro_title: 'Откройте PLANKA Pro',
+      discoverPlankaPro: '✨ Больше возможностей для ваших досок: Откройте PROJECT_SPRINT Pro',
+      discoverPlankaPro_title: 'Откройте PROJECT_SPRINT Pro',
       upgradeTeamToPro_title: 'Улучшить команду до Pro',
       proFeatureCalendar: '✨ Вид календаря для ваших досок',
       proFeatureRecurringCards: '✨ Повторяющиеся карточки и автоматизация',
@@ -276,7 +276,7 @@ export default {
       passwordIsSet: 'Пароль установлен',
       phone: 'Телефон',
       plankaUsesAppriseToSendNotificationsToOver100PopularServices:
-        'PLANKA использует <1><0>Apprise</0></1> для отправки уведомлений в более чем 100 популярных сервисов.',
+        'PROJECT_SPRINT использует <1><0>Apprise</0></1> для отправки уведомлений в более чем 100 популярных сервисов.',
       port: 'Порт',
       preferences: 'Предпочтения',
       pressPasteShortcutToAddAttachmentFromClipboard:

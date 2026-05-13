@@ -21,7 +21,7 @@ export default {
   translation: {
     common: {
       aboutApp_title: 'О апликацији',
-      aboutPlanka_title: 'O PLANKA',
+      aboutPlanka_title: 'O PROJECT_SPRINT',
       accessToken: 'Токен за приступ',
       account: 'Налог',
       actions: 'Радње',
@@ -142,8 +142,8 @@ export default {
       customFieldGroups_title: 'Групе прилагођених поља',
       customField_title: 'Прилагођено поље',
       customFields_title: 'Прилагођена поља',
-      discoverPlankaPro: '✨ Више функција за ваше табле: Откријте PLANKA Pro',
-      discoverPlankaPro_title: 'Откријте PLANKA Pro',
+      discoverPlankaPro: '✨ Више функција за ваше табле: Откријте PROJECT_SPRINT Pro',
+      discoverPlankaPro_title: 'Откријте PROJECT_SPRINT Pro',
       upgradeTeamToPro_title: 'Надоградите тим на Pro',
       proFeatureCalendar: '✨ Приказ календара за ваше табле',
       proFeatureRecurringCards: '✨ Понављајуће картице и аутоматизација',
@@ -273,7 +273,7 @@ export default {
       passwordIsSet: 'Лозинка је подешена',
       phone: 'Телефон',
       plankaUsesAppriseToSendNotificationsToOver100PopularServices:
-        'PLANKA користи <1><0>Apprise</0></1> за слање обавештења на преко 100 популарних сервиса.',
+        'PROJECT_SPRINT користи <1><0>Apprise</0></1> за слање обавештења на преко 100 популарних сервиса.',
       port: 'Порт',
       preferences: 'Својства',
       pressPasteShortcutToAddAttachmentFromClipboard:

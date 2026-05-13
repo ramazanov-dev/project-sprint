@@ -1,5 +1,5 @@
 name: "✨ Feature Request"
-description: Suggest a feature or enhancement to improve PLANKA.
+description: Suggest a feature or enhancement to improve PROJECT_SPRINT.
 labels: ["Type: Idea"]
 body:
   - type: dropdown

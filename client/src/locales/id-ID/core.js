@@ -21,7 +21,7 @@ export default {
   translation: {
     common: {
       aboutApp_title: 'Tentang aplikasi',
-      aboutPlanka_title: 'Tentang PLANKA',
+      aboutPlanka_title: 'Tentang PROJECT_SPRINT',
       accessToken: 'Token akses',
       account: 'Akun',
       actions: 'Tindakan',
@@ -145,8 +145,8 @@ export default {
       customFieldGroups_title: 'Grup bidang kustom',
       customField_title: 'Bidang kustom',
       customFields_title: 'Bidang kustom',
-      discoverPlankaPro: '✨ Lebih banyak fitur untuk papan Anda: Temukan PLANKA Pro',
-      discoverPlankaPro_title: 'Temukan PLANKA Pro',
+      discoverPlankaPro: '✨ Lebih banyak fitur untuk papan Anda: Temukan PROJECT_SPRINT Pro',
+      discoverPlankaPro_title: 'Temukan PROJECT_SPRINT Pro',
       upgradeTeamToPro_title: 'Tingkatkan tim ke Pro',
       proFeatureCalendar: '✨ Tampilan Kalender untuk papan Anda',
       proFeatureRecurringCards: '✨ Kartu Berulang & Otomatisasi',
@@ -276,7 +276,7 @@ export default {
       passwordIsSet: 'Kata sandi telah diatur',
       phone: 'Ponsel',
       plankaUsesAppriseToSendNotificationsToOver100PopularServices:
-        'PLANKA menggunakan <1><0>Apprise</0></1> untuk mengirim notifikasi ke lebih dari 100 layanan populer.',
+        'PROJECT_SPRINT menggunakan <1><0>Apprise</0></1> untuk mengirim notifikasi ke lebih dari 100 layanan populer.',
       port: 'Port',
       preferences: 'Preferensi',
       pressPasteShortcutToAddAttachmentFromClipboard:

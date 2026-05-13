@@ -5,7 +5,7 @@ set -e
 
 # Configure those to match your Docker container names
 DOCKER_CONTAINER_POSTGRES="planka-postgres-1"
-DOCKER_CONTAINER_PLANKA="planka-planka-1"
+DOCKER_CONTAINER_PROJECT_SPRINT="planka-planka-1"
 
 # Use provided archive
 BACKUP_ARCHIVE="$1"
@@ -29,7 +29,7 @@ echo "Success!"
 echo
 
 echo -n "Importing data volume ... "
-docker run --rm --user root --volumes-from "$DOCKER_CONTAINER_PLANKA" -v "$BACKUP_TEMP:/backup" node:22-alpine sh -c "cp -rf /backup/data/. /app/data && chown -R node:node /app/data/*"
+docker run --rm --user root --volumes-from "$DOCKER_CONTAINER_PROJECT_SPRINT" -v "$BACKUP_TEMP:/backup" node:22-alpine sh -c "cp -rf /backup/data/. /app/data && chown -R node:node /app/data/*"
 echo "Success!"
 echo
 

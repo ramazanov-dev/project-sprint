@@ -62,7 +62,7 @@
  *                   example: [de-DE, en-US]
  *                 version:
  *                   type: string
- *                   description: Current version of the PLANKA application
+ *                   description: Current version of the PROJECT_SPRINT application
  *                   example: 2.0.0
  *     security: []
  */
