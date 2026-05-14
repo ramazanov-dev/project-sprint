@@ -31,7 +31,8 @@ const TermsPane = React.memo(() => {
   return (
     <Tab.Pane attached={false} className={styles.wrapper}>
       {content ? (
-        <Markdown>{content}</Markdown>
+        // <Markdown></Markdown>
+        <div></div>
       ) : (
         <Loader active inverted inline="centered" size="small" />
       )}

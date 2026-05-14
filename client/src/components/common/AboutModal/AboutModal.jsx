@@ -29,12 +29,6 @@ const AboutModal = React.memo(() => {
       }),
       render: () => <AboutPane />,
     },
-    {
-      menuItem: t('common.termsOfService', {
-        context: 'title',
-      }),
-      render: () => <TermsPane />,
-    },
   ];
 
   return (

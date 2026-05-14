@@ -17,7 +17,7 @@ import { i18n as markdownEditorI18n } from '@gravity-ui/markdown-editor/_/i18n/i
 
 import { embeddedLocales, languages } from './locales';
 
-const FALLBACK_LANGUAGE = 'ru-RU';
+const FALLBACK_LANGUAGE = 'en-US';
 
 i18n.dateFns = {
   locales: {},

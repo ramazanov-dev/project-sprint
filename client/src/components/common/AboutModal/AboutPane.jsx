@@ -34,10 +34,7 @@ const AboutPane = React.memo(() => {
 
   return (
     <Tab.Pane attached={false} className={styles.wrapper}>
-      <a href="https://github.com/plankanban/planka" target="_blank" rel="noreferrer">
-        <Image centered src={aboutLogo} size="large" />
-      </a>
-      <div className={styles.version}>Community v{version}</div>
+    <Image centered src={aboutLogo} size="large" />
       <Divider horizontal>
         <Header as="h4">
           {t('common.whatsNew', {
